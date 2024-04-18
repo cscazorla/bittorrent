@@ -1,0 +1,16 @@
+{
+    "name": "bittorrent-client",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app/main.js",
+    "scripts": {
+        "dev": "node app/main.js",
+        "test": "jest"
+    },
+    "keywords": [],
+    "author": "cscazorla",
+    "license": "",
+    "devDependencies": {
+        "jest": "^29.7.0"
+    }
+}
